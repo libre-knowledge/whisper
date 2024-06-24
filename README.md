@@ -11,6 +11,8 @@
 
 * [openai/whisper: Robust Speech Recognition via Large-Scale Weak Supervision](https://github.com/openai/whisper)  
   上游專案
+* [whisper.cpp](https://gitlab.com/libre-knowledge/whisper.cpp.git)  
+  基於 Whisper 模型的語音辨識應用與程式庫實現
 
 ## 參考資料
 

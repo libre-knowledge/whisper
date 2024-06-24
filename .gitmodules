@@ -13,3 +13,7 @@
 	ignore = dirty
 	shallow = true
 	fetchRecurseSubmodules = false
+[submodule "whisper.cpp 基於 Whisper 模型的語音辨識應用與程式庫實現"]
+	path = whisper.cpp 基於 Whisper 模型的語音辨識應用與程式庫實現
+	url = https://gitlab.com/libre-knowledge/whisper.cpp.git
+	ignore = dirty
