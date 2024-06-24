@@ -14,6 +14,8 @@
 
 ## 參考資料
 
+以下列舉撰寫本主題內容時所參考的第三方資源：
+
 * [openai/whisper: Robust Speech Recognition via Large-Scale Weak Supervision](https://github.com/openai/whisper)  
   專案網站
 
